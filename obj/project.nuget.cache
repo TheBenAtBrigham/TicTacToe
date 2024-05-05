@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAzfLbtuIhaDGNgsSGpcQ/QskABK7/jflVCUT6j9yJA3DKNKKlPeJnzP7/sMiRQkBl0lP7ph+mBGlgwDkx3htw==",
+  "success": true,
+  "projectFilePath": "/Users/abenson/Projects/TicTacToe/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/Users/abenson/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/abenson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/abenson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.26/microsoft.netcore.app.host.osx-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
