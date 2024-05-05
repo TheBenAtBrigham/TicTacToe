@@ -1,0 +1,11 @@
+12900
+Ben,12900,1245
+Mac,8000,t21
+Don,200,2
+John,0,duck
+Allan,200,goose
+Beck,200,M
+beck,600,M
+Ron,200,smo
+Mel,900,3
+Al,500,#
